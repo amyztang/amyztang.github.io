@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amyztang.github.io/sitemap.xml
